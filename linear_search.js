@@ -5,7 +5,7 @@ const linearSearch = (list, item) => {
             return i;
         }
     }
-
+    // add comment
     return null;
 
 }
