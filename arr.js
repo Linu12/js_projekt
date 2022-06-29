@@ -1,4 +1,4 @@
-// random arr bez powtórzeń 
+// random arr with no repeats
 let arr = [];
 while (arr.length <= 6) {
 
